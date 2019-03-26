@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import logo from '../img/jl.png';
 // TODO: Replace with svg.
 
-class LogoDisplay extends Component {
+class HeaderDisplay extends Component {
   render() {
     return (
       <div className="title-header">
@@ -20,4 +20,4 @@ class LogoDisplay extends Component {
   }
 }
 
-export default LogoDisplay;
+export default HeaderDisplay;
