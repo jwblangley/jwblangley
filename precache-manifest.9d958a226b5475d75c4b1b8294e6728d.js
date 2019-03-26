@@ -8,7 +8,7 @@ self.__precacheManifest = [
     "url": "/jwblangley/static/js/runtime~main.37c5fa8f.js"
   },
   {
-    "revision": "3fe4a59da3d2918326fe",
+    "revision": "089bcb0fa6328b0d080c",
     "url": "/jwblangley/static/js/main.c8a50c9d.chunk.js"
   },
   {
@@ -16,11 +16,11 @@ self.__precacheManifest = [
     "url": "/jwblangley/static/js/2.b934461c.chunk.js"
   },
   {
-    "revision": "3fe4a59da3d2918326fe",
-    "url": "/jwblangley/static/css/main.1de0c520.chunk.css"
+    "revision": "089bcb0fa6328b0d080c",
+    "url": "/jwblangley/static/css/main.91a374fe.chunk.css"
   },
   {
-    "revision": "f6a2694eed04c0f33c095cc218e7b9ae",
+    "revision": "72fb75620259ec1743d7254f7814e50d",
     "url": "/jwblangley/index.html"
   }
 ];
