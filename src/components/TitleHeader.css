@@ -1,0 +1,48 @@
+.title-header {
+  width: 100vw;
+  background-color: var(--color-primary);
+  border-bottom: 0.5vh solid var(--color-divider);
+  text-align: center;
+}
+
+.title-text {
+  padding: 3vmin;
+}
+
+.title-text h1 {
+  color: var(--color-text-icon);
+  font-size: 5vmin;
+}
+
+.title-text h2 {
+  color: var(--color-light-primary);
+  font-size: 4vmin;
+}
+
+.title-logo {
+  width: 60vmin;
+  animation: title-logo-spin infinite 3.5s linear;
+  display: block;
+  margin: 0 auto;
+  padding: 1vh 0;
+}
+
+@keyframes title-logo-spin {
+  0% {
+    transform: rotate(0deg);
+  }
+  40% {
+    transform: rotate(0deg);
+  }
+  50% {
+    transform: rotate(180deg);
+    animation-timing-function: ease-in-out;
+  }
+  90% {
+    transform: rotate(180deg);
+  }
+  100% {
+    transform: rotate(360deg);
+    animation-timing-function: ease-in-out;
+  }
+}

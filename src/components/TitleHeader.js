@@ -2,6 +2,8 @@ import React, { Component } from 'react';
 import logo from '../img/jl.png';
 // TODO: Replace with svg.
 
+import './TitleHeader.css';
+
 class TitleHeader extends Component {
   render() {
     return (

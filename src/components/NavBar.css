@@ -1,0 +1,11 @@
+.navbar {
+  width: 100vw;
+  background-color: var(--color-dark-primary);
+}
+
+.navbar h1 {
+  color: var(--color-text-icon);
+  display: inline-block;
+  font-size: 3vmin;
+  padding: 2vh 5vw;
+}

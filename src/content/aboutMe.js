@@ -19,6 +19,8 @@ export function generateAboutMe() {
           My other interests include Hockey, Photography and Scuba Diving.
           <br></br>
           <br></br>
+          Find me online here:
+          <SocialIcons />
         </p>
       </div>
     </div>
