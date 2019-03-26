@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/jwblangley/static/css/main.86ebe066.chunk.css"
   },
   {
-    "revision": "446838fd0fbc6386d0290b6ec7eb6ac1",
+    "revision": "306299b9a0a8ae93a040a0350ff30574",
     "url": "/jwblangley/index.html"
   }
 ];
