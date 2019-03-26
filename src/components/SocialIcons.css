@@ -1,0 +1,9 @@
+.social-icons {
+  padding: 2vh 0;
+}
+
+.social-icon {
+  margin-right: 1vw;
+  width: 7.5vmin;
+  border-radius: 50%;
+}
