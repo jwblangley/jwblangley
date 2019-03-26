@@ -17,6 +17,22 @@
 
 body {
   background-color: var(--color-background);
+  overflow-x: hidden;
+}
+
+h1 {
+  color: var(--color-primary);
+  font-size: 4vmin;
+  padding-bottom: 1vh;
+}
+
+p {
+  color: var(--color-primary-text);
+  font-size: 2vmin;
+}
+
+a {
+  color: var(--color-accent);
 }
 
 .title-header {
@@ -36,7 +52,7 @@ body {
 }
 
 .title-text h2 {
-  color: var(--color-primary-text);
+  color: var(--color-light-primary);
   font-size: 4vmin;
 }
 
