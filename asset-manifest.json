@@ -1,14 +1,20 @@
 {
-  "main.css": "/jwblangley/static/css/main.5af11317.chunk.css",
-  "main.js": "/jwblangley/static/js/main.cb4aec48.chunk.js",
-  "main.js.map": "/jwblangley/static/js/main.cb4aec48.chunk.js.map",
+  "main.css": "/jwblangley/static/css/main.99be816f.chunk.css",
+  "main.js": "/jwblangley/static/js/main.60f4a52a.chunk.js",
+  "main.js.map": "/jwblangley/static/js/main.60f4a52a.chunk.js.map",
   "runtime~main.js": "/jwblangley/static/js/runtime~main.37c5fa8f.js",
   "runtime~main.js.map": "/jwblangley/static/js/runtime~main.37c5fa8f.js.map",
-  "static/js/2.693cc7d6.chunk.js": "/jwblangley/static/js/2.693cc7d6.chunk.js",
-  "static/js/2.693cc7d6.chunk.js.map": "/jwblangley/static/js/2.693cc7d6.chunk.js.map",
+  "static/js/2.8aceaf45.chunk.js": "/jwblangley/static/js/2.8aceaf45.chunk.js",
+  "static/js/2.8aceaf45.chunk.js.map": "/jwblangley/static/js/2.8aceaf45.chunk.js.map",
   "index.html": "/jwblangley/index.html",
-  "precache-manifest.3c93f07fd8b36580a5edfaad6d83293d.js": "/jwblangley/precache-manifest.3c93f07fd8b36580a5edfaad6d83293d.js",
+  "precache-manifest.dc5fb6ec20e931ccdd80c06047ee39de.js": "/jwblangley/precache-manifest.dc5fb6ec20e931ccdd80c06047ee39de.js",
   "service-worker.js": "/jwblangley/service-worker.js",
-  "static/css/main.5af11317.chunk.css.map": "/jwblangley/static/css/main.5af11317.chunk.css.map",
-  "static/media/jl.png": "/jwblangley/static/media/jl.3ea5e1f4.png"
+  "static/css/main.99be816f.chunk.css.map": "/jwblangley/static/css/main.99be816f.chunk.css.map",
+  "static/media/500px.svg": "/jwblangley/static/media/500px.9602e2ae.svg",
+  "static/media/email.svg": "/jwblangley/static/media/email.d195e6bc.svg",
+  "static/media/github.svg": "/jwblangley/static/media/github.0a3a0978.svg",
+  "static/media/instagram.svg": "/jwblangley/static/media/instagram.7811e1e0.svg",
+  "static/media/jl.png": "/jwblangley/static/media/jl.3ea5e1f4.png",
+  "static/media/linkedIn.svg": "/jwblangley/static/media/linkedIn.b554c481.svg",
+  "static/media/twitter.svg": "/jwblangley/static/media/twitter.7137286d.svg"
 }
