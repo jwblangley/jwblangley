@@ -68,8 +68,8 @@ export function generateAboutMe() {
           <br></br>
           <br></br>
           Find me online here:
-          <SocialIcons socials={socials}/>
         </p>
+        <SocialIcons socials={socials}/>
       </div>
     </div>
   );

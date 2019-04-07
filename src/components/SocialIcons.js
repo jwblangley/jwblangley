@@ -12,7 +12,7 @@ class SocialIcons extends Component {
     return (
       <div className="social-icons">
       {this.props.socials.map(social =>
-        <SocialIcon name={social.name} icon={social.icon} link={social.link} />
+        <SocialIcon key={social.name} name={social.name} icon={social.icon} link={social.link} />
       )}
       </div>
     );
