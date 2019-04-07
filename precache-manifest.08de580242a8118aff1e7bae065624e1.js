@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/jwblangley/static/media/linkedIn.b554c481.svg"
   },
   {
-    "revision": "bb700bfc7cdf64d92658",
+    "revision": "599fce6c8f16667ee79f",
     "url": "/jwblangley/static/css/main.99be816f.chunk.css"
   },
   {
@@ -12,20 +12,20 @@ self.__precacheManifest = [
     "url": "/jwblangley/static/js/runtime~main.37c5fa8f.js"
   },
   {
-    "revision": "931d3fea9f192b162b21",
-    "url": "/jwblangley/static/js/2.8aceaf45.chunk.js"
+    "revision": "decf1ce3948d7d4aff0f",
+    "url": "/jwblangley/static/js/2.8d248648.chunk.js"
   },
   {
-    "revision": "3ea5e1f47e02a878ae34ccb31154a300",
-    "url": "/jwblangley/static/media/jl.3ea5e1f4.png"
+    "revision": "d3c0a5f52f19b9b778c55e1da5c45661",
+    "url": "/jwblangley/static/media/JL-logo.d3c0a5f5.svg"
   },
   {
     "revision": "d195e6bc97d1c6e7619dd774552441bb",
     "url": "/jwblangley/static/media/email.d195e6bc.svg"
   },
   {
-    "revision": "bb700bfc7cdf64d92658",
-    "url": "/jwblangley/static/js/main.60f4a52a.chunk.js"
+    "revision": "599fce6c8f16667ee79f",
+    "url": "/jwblangley/static/js/main.3019facc.chunk.js"
   },
   {
     "revision": "7137286db3c9254ace982646907e65a3",
@@ -44,7 +44,7 @@ self.__precacheManifest = [
     "url": "/jwblangley/static/media/500px.9602e2ae.svg"
   },
   {
-    "revision": "9bdcc145ae106531b670ce845d1a4ad9",
+    "revision": "9c87352466b859a4521f611be3ad741c",
     "url": "/jwblangley/index.html"
   }
 ];
