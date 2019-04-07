@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import logo from '../img/jl.png';
+import logo from '../img/JL-logo.svg';
 // TODO: Replace with svg.
 
 import './TitleHeader.css';
