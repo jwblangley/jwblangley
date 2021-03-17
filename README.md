@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **any of my projects! I'd love to tell you about them**
 
-- ⚡ Fun fact **I'm also a hobbyist photographer! [Check out my photos](https://instagram.com/jwblangley.jpg)!**
+- ⚡ Fun fact: **I'm also a hobbyist photographer! [Check out my photos](https://instagram.com/jwblangley.jpg)!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
