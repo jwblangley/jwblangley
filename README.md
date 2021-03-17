@@ -27,14 +27,18 @@
 <!-- Trophies -->
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jwblangley" alt="jwblangley" /></a> </p>
 
-<div align="center" style="margin-bottom:2em">
+<p align="center">
     <!-- GiHub used languages -->
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jwblangley&show_icons=true&locale=en&layout=compact" alt="jwblangley" />
+</p>
+<p align="center">
     <!-- GitHub stats -->
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=jwblangley&show_icons=true&locale=en" alt="jwblangley" />
+</p>
+<p align="center">
     <!-- Git Streak -->
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jwblangley&" alt="jwblangley" />
-</div>
+</p>
 
 <!-- Profile view counter -->
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=jwblangley&label=Profile%20views&color=0e75b6&style=flat" alt="jwblangley" /> </p>
